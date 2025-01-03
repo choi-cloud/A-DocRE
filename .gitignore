@@ -1,0 +1,6 @@
+*.json
+*.pyc
+*.npy
+*.pt
+*.out
+*.err
